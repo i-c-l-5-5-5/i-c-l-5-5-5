@@ -115,11 +115,6 @@ Aberto a trocar ideias, colaborações e feedbacks.
 [![Gmail](https://galeria-kistune.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
 [![WhatsApp](https://galeria-kistune.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
 
-</div># i-c-l-5-5-5
-# i-c-l-5-5-5
-# i-c-l-5-5-5
-# i-c-l-5-5-5
-# i-c-l-5-5-5
-# i-c-l-5-5-5
-# i-c-l-5-5-5
+</div> 
+
 # i-c-l-5-5-5
