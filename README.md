@@ -113,6 +113,5 @@ Meu interesse principal está na construção de soluções web completas, do fr
 Aberto a trocar ideias, colaborações e feedbacks.
 
 [![Gmail](https://galeria-kitsune.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
-[![WhatsApp](https://galeria-kitsune.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
 
 </div>
