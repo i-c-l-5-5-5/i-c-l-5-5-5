@@ -85,7 +85,6 @@ Meu interesse principal está na construção de soluções web completas, do fr
 
 ![antigravity](https://galeria-kitsune.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
 ![vscode](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-vscode.svg)
-![cursor](https://galeria-kitsune.vercel.app/api/svg/badges/skills/ferramentas/badge-cursor.svg)
 
 </div>
 
