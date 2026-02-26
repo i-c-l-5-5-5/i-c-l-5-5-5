@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://galeria-kitsune.vercel.app/api/svg/banner/capa-10.svg)
+<img align="center" src="./img/capa.png"/>
 
 </div>
 
@@ -8,7 +8,11 @@
 
 <div align="center">
 
+#
+
 ![Visitantes](https://galeria-kitsune.vercel.app/api/visitors/i-c-l-5-5-5/badge.svg?label=visitantes)
+
+#
 
 </div>
 
