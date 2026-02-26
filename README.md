@@ -2,13 +2,25 @@
 
 #
 
+
+#
+
+<div align="center">
+
+![entusiasta](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg)
+![fullstack](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg)
+![ux-ui](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-ux-ui.svg)
+![DevOps](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-devops.svg)
+
+</div>
+
+#
+
 ## Sobre mim
 
 Desenvolvedor independente com foco em aprendizado contínuo e experimentação prática. Utilizo este repositório como laboratório pessoal — um espaço para explorar tecnologias, consolidar conhecimentos e documentar a evolução dos meus projetos.
 
 Meu interesse principal está na construção de soluções web completas, do frontend ao backend, com atenção à qualidade do código e às boas práticas de desenvolvimento. Acredito que a consistência e a curiosidade são os principais motores do crescimento técnico.
-
-#
 
 # Tecnologias & Ferramentas
 
@@ -37,6 +49,8 @@ Meu interesse principal está na construção de soluções web completas, do fr
 ![python](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-python.svg)
 ![php](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-php.svg)
 ![sql](https://galeria-kitsune.vercel.app/api/svg/badges/skills/langs/badge-sql.svg)
+![firebase](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-firebase.svg)
+![supabase](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-supabase.svg)
 
 </div>
 
@@ -62,11 +76,11 @@ Meu interesse principal está na construção de soluções web completas, do fr
 ![Git](https://galeria-kitsune.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
 ![GitHub](https://galeria-kitsune.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
 ![GitHub Actions](https://galeria-kitsune.vercel.app/api/svg/badges/skills/ferramentas/badge-github-actions.svg)
-![docker](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-docker.svg)
 ![npm](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-npm.svg)
 ![eslint](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-eslint.svg)
 ![prettier](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-prettier.svg)
 ![vitest](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-vitest.svg)
+![docker](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-docker.svg)
 
 </div>
 
@@ -88,10 +102,10 @@ Meu interesse principal está na construção de soluções web completas, do fr
 <div align="center">
 
 <a href="https://galeria-kitsune.vercel.app">
-  <img src="https://galeria-kitsune.vercel.app/api/github-stats/i-c-l-5-5-5?theme=neon" width="400" alt="Estatísticas do GitHub">
+  <img src="https://galeria-kitsune.vercel.app/api/github-stats/i-c-l-5-5-5?theme=ocean" width="400" alt="Estatísticas do GitHub">
 </a>
 <a href="https://galeria-kitsune.vercel.app">
-  <img src="https://galeria-kitsune.vercel.app/api/github-langs/i-c-l-5-5-5?theme=neon" width="400" alt="Linguagens mais utilizadas">
+  <img src="https://galeria-kitsune.vercel.app/api/github-langs/i-c-l-5-5-5?theme=ocean" width="400" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
