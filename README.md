@@ -7,10 +7,10 @@
 
 <div align="center">
 
-![entusiasta](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg)
-![fullstack](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg)
-![ux-ui](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-ux-ui.svg)
-![DevOps](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-devops.svg)
+![entusiasta](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-entusiasta.svg?w=180)
+![fullstack](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?w=180)
+![ux-ui](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-ux-ui.svg?w=180)
+![DevOps](https://galeria-kitsune.vercel.app/api/svg/badges/decorativos/badge-devops.svg?w=180)
 
 </div>
 
