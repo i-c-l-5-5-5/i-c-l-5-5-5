@@ -1,20 +1,6 @@
-<div align="center">
-
 <img align="center" src="./img/capa.png"/>
 
-</div>
-
----
-
-<div align="center">
-
 #
-
-![Visitantes](https://galeria-kitsune.vercel.app/api/visitors/i-c-l-5-5-5/badge.svg?label=visitantes)
-
-#
-
-</div>
 
 ## Sobre mim
 
@@ -22,9 +8,9 @@ Desenvolvedor independente com foco em aprendizado contínuo e experimentação 
 
 Meu interesse principal está na construção de soluções web completas, do frontend ao backend, com atenção à qualidade do código e às boas práticas de desenvolvimento. Acredito que a consistência e a curiosidade são os principais motores do crescimento técnico.
 
----
+#
 
-## 🚀 Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 
 ### Frontend
 
@@ -40,6 +26,8 @@ Meu interesse principal está na construção de soluções web completas, do fr
 
 </div>
 
+#
+
 ### Backend
 
 <div align="center">
@@ -48,14 +36,11 @@ Meu interesse principal está na construção de soluções web completas, do fr
 ![Express](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-express.svg)
 ![python](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-python.svg)
 ![php](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-php.svg)
-![mongodb](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-mongodb.svg)
-![mysql](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-mysql.svg)
-![PostgreSQL](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-postgresql.svg)
-![SQLite](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-sqlite.svg)
-![firebase](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-firebase.svg)
-![Supabase](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-supabase.svg)
+![sql](https://galeria-kitsune.vercel.app/api/svg/badges/skills/langs/badge-sql.svg)
 
 </div>
+
+#
 
 ### DevOps & Deploy
 
@@ -67,6 +52,8 @@ Meu interesse principal está na construção de soluções web completas, do fr
 ![Linux](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-linux.svg)
 
 </div>
+
+#
 
 ### Ferramentas de Desenvolvimento
 
@@ -83,19 +70,20 @@ Meu interesse principal está na construção de soluções web completas, do fr
 
 </div>
 
+#
+
 ### Ambiente de Desenvolvimento
 
 <div align="center">
 
 ![antigravity](https://galeria-kitsune.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
 ![vscode](https://galeria-kitsune.vercel.app/api/svg/badges/skills/badge-vscode.svg)
-![cursor](https://galeria-kitsune.vercel.app/api/svg/badges/skills/ferramentas/badge-cursor.svg)
 
 </div>
 
----
+#
 
-## 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
 
@@ -108,9 +96,9 @@ Meu interesse principal está na construção de soluções web completas, do fr
 
 </div>
 
----
+#
 
-## 📫 Contato
+### Contato
 
 <div align="center">
 
@@ -119,3 +107,15 @@ Aberto a trocar ideias, colaborações e feedbacks.
 [![Gmail](https://galeria-kitsune.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
 
 </div>
+
+#
+
+<div align="center">
+
+<a href="https://galeria-kitsune.vercel.app/">
+<img src="https://galeria-kitsune.vercel.app/api/visitors/i-c-l-5-5-5/badge.svg?label=visitantes">
+</a>
+
+</div>
+
+#
